@@ -1,6 +1,6 @@
 import pandas
 
-df = pandas.read_csv("db/La_liga_2.0.csv")
+df = pandas.read_csv("La_liga_2.0.csv")
 
 print("----------------------------------------------ALL TEAMS----------------------------------------------")
 print(
